@@ -1,0 +1,33 @@
+analise assintotica
+
+bigO 
+- pior cénario
+analise linear
+
+RECEITA
+
+- somar cada passo do algoritmo
+3 + i * 3 = 3n + 3 
+
+- ignorar todas as constantes
+3n
+
+- ignorar os fatores multiplicativos
+n
+
+sempre que eu ter uma lista não ordenada ela sempre vai ter complexidade linear o(n)
+
+o dado é linear quando vc tem que percorrer pra fazer interações
+
+o(n) - linear
+o(1) - constante (calc_c_to_f)
+o(log n) - logaritima
+o(n^2) - quadratico ( for aninhados)
+O(2^n) - exponencial
+o(n log n) - log linear
+
+powerset - todas as combinações posiveis de uma lista
+
+busca binaria pode ser o(n) ou o(log n), depende dda lista
+
+programação dinamica - cache
